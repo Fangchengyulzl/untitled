@@ -1,0 +1,29 @@
+products:
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$$anon$3$$anon$1.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$$anon$3.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$$anon$4$$anon$2.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$$anon$4.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$$anon$5.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest$MysqlSink.class
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\IDEA\bigdata2024\bigdata2024-flinek2\target\classes\com\lzl\FlumeKafkaFlinkTest.class
+binary dependencies:
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\java8\jdk1.8.0_361\jre\lib\rt.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-connector-kafka_2.12\1.14.0\flink-connector-kafka_2.12-1.14.0.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-connector-redis_2.11\1.1.5\flink-connector-redis_2.11-1.1.5.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-core\1.14.0\flink-core-1.14.0.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-scala_2.12\1.14.0\flink-scala_2.12-1.14.0.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-streaming-java_2.12\1.14.0\flink-streaming-java_2.12-1.14.0.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\apache\flink\flink-streaming-scala_2.12\1.14.0\flink-streaming-scala_2.12-1.14.0.jar
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> D:\tools\repository\org\scala-lang\scala-library\2.12.0\scala-library-2.12.0.jar
+source dependencies:
+external dependencies:
+class names:
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$$anon$3
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$$anon$3$$anon$1
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$$anon$4
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$$anon$4$$anon$2
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$$anon$5
+   D:\IDEA\bigdata2024\bigdata2024-flinek2\src\main\java\com\lzl\FlumeKafkaFlinkTest.scala -> com.lzl.FlumeKafkaFlinkTest$MysqlSink
